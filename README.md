@@ -1,4 +1,4 @@
- # Lab: Criar uma função Lambda com API Gateway (Free Tier)
+ # 🧪 Lab: Criando uma função Lambda com API Gateway (Free Tier)
 🎯 Objetivo
 Criar uma função Lambda que retorna uma mensagem personalizada quando acessada por um link público via API Gateway.
 
